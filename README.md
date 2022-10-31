@@ -1,6 +1,6 @@
 # DutchNER
 
-Foobar is a Python library for identifying PII in Dutch text.
+DutchNER is a Python library for identifying PII in Dutch text.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
